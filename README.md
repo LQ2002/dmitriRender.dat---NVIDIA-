@@ -19,3 +19,6 @@ Watermark
 ### 3.0 version 
 
 AMD RX 5700、GTX 16XX、NVIDIA Maxwell Pascal GPU、RTX 2000、Universal、 DmitriRender-retime.bat 
+
+
+# 非常感谢原作者
