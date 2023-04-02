@@ -2,7 +2,7 @@
 
 https://www.gdaily.org/22179/dmitrirender-60fps
 
-綠屏補丁路徑↓
+绿屏补丁路径
 
 ```  %USERPROFILE%\AppData\Roaming\DmitriRender\ ``` 
 
